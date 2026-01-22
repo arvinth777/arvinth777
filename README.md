@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Arvinth
+#  Hi, I’m Arvinth
 
-🎓 Pre-final year B.Tech student (CSE – AI)  
-📍 Bengaluru, India | Chennai / HYD
-   Data Science • Machine Learning • Applied LLMs
+  Pre-final year B.Tech student (CSE – AI)  
+  Bengaluru, India | Chennai / HYD
+  Data Science • Machine Learning • Applied LLMs
 
 I’m a computer science undergraduate focused on building **practical, data-driven solutions** using **Python, SQL, machine learning, and LLM-based systems**. I enjoy working across the full pipeline — from **data preprocessing and feature engineering** to **model evaluation and insight delivery**.
 
@@ -32,7 +32,7 @@ I’m a computer science undergraduate focused on building **practical, data-dri
 
 ---
 
-## 🚀 What I’m Building
+##   What I’m Building
 
 - LLM-powered analytical tools to extract insights from structured and unstructured data  
 - End-to-end ML pipelines covering data cleaning, training, and evaluation  
@@ -43,7 +43,7 @@ I’m particularly interested in **applied data science** where models directly 
 
 ---
 
-## 📚 Currently Learning
+##   Currently Learning
 
 - Improving ML model robustness and evaluation  
 - Better prompt engineering strategies for LLM reliability  
@@ -52,7 +52,7 @@ I’m particularly interested in **applied data science** where models directly 
 
 ---
 
-## 🎯 What I’m Looking For
+##   What I’m Looking For
 
 - Data Science / ML Internships  
 - Roles involving real-world data, not just theory  
@@ -60,9 +60,9 @@ I’m particularly interested in **applied data science** where models directly 
 
 ---
 
-## 📫 Let’s Connect
+##   Let’s Connect
 
 - 📧 Email: arvinth273@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/arvinth-cinmayan-855949366  
 
-⭐ Always open to learning, building, and improving.
+  Always open to learning, building, and improving.
