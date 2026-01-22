@@ -30,7 +30,7 @@ I’m a computer science undergraduate focused on building **practical, data-dri
 **Tools**
 - Git, GitHub, Jupyter Notebook, Linux, Docker
 
----
+
 
 ##   What I’m Building
 
@@ -41,7 +41,7 @@ I’m a computer science undergraduate focused on building **practical, data-dri
 
 I’m particularly interested in **applied data science** where models directly support **business decision-making**.
 
----
+
 
 ##   Currently Learning
 
@@ -50,7 +50,7 @@ I’m particularly interested in **applied data science** where models directly 
 - Scalable data preprocessing workflows  
 - Translating business requirements into ML solutions  
 
----
+
 
 ##   What I’m Looking For
 
@@ -58,7 +58,7 @@ I’m particularly interested in **applied data science** where models directly 
 - Roles involving real-world data, not just theory  
 - Environments with mentorship, collaboration, and impact  
 
----
+
 
 ##   Let’s Connect
 
