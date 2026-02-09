@@ -1,8 +1,8 @@
 #  Hi, I’m Arvinth
 
   Pre-final year B.Tech student (CSE – AI)  
-  Bengaluru, India | Chennai / HYD
-  Data Science • Machine Learning • Applied LLMs
+  Bengaluru, India | Chennai
+  Data Science • Machine Learning • Applied LLMs • Product engineering 
 
 I’m a computer science undergraduate focused on building **practical, data-driven solutions** using **Python, SQL, machine learning, and LLM-based systems**. I enjoy working across the full pipeline — from **data preprocessing and feature engineering** to **model evaluation and insight delivery**.
 
